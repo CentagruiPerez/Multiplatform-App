@@ -4,3 +4,4 @@ import org.company.app.App
 
 @OptIn(ExperimentalComposeUiApi::class)
 fun main() = ComposeViewport { App() }
+
